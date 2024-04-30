@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "ezpay.swagger.contact.url",
+    "type": "java.lang.String",
+    "description": "A description for 'ezpay.swagger.contact.url'"
+  },
+  {
+    "name": "ezpay.swagger.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'ezpay.swagger.contact.email'"
+  },
+  {
+    "name": "ezpay.swagger.contact.name",
+    "type": "java.lang.String",
+    "description": "A description for 'ezpay.swagger.contact.name'"
+  }
+]}
